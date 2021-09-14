@@ -5,3 +5,8 @@
 .icone {
   color: #dc143c;
 }
+
+/* alterando a altura das imagens do carrosel */
+.carousel-item {
+height: 100vh;
+}

@@ -1,0 +1,17 @@
+form = página web com componentes
+<form name="dados" id="dados" method="post" action="./gravarUsuario">
+
+name = name do formulários == igual ao id
+id = identificador do formulário == igual ao name
+method = define o modo de envio dos dados digitados
+    get = método padrào = Informacões são enviadas pela URL - links - pesquisa - busca
+    post = informacões são enviadas encapsuladas no formulário - cadastro - login - alguma transacão
+action = acão do formulário - o que vai acontecer quando o usuário clicar no botão de envio
+    dentro da action - teremos um endereco de alguém que sabe pegar as informacões digitadas
+    gravarUsuario.jsp
+
+    campos de formulário: 98% são feitos com a tag <input type="">
+
+classes CSS para formulário
+
+</form>
