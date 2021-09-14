@@ -13,5 +13,7 @@ action = acão do formulário - o que vai acontecer quando o usuário clicar no 
     campos de formulário: 98% são feitos com a tag <input type="">
 
 classes CSS para formulário
+class="form-control" - formatar a maioria dos elementos de formulário
+grid - posicionar os campos de uma forma mais interessante
 
 </form>
